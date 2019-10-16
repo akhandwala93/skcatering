@@ -17,6 +17,29 @@ html {
   line-height: 1.4;
 }
 
+.no-margin {
+  margin: 0px !important;
+  border-radius: 0px !important;
+}
+
+
+.row{
+  padding-top: 2.5em !important;
+  padding-bottom: 2.5em !important;
+}
+
+.font-tangerine {
+  
+  font-family: Tangerine;
+  font-size: 64px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+}
+
+
+
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
