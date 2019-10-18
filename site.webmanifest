@@ -4,7 +4,7 @@
   "icons": [{
     "src": "logo-sk.png",
     "type": "image/png",
-    "sizes": "192x192"
+    "sizes": "100x100"
   }],
   "start_url": "/?utm_source=homescreen",
   "background_color": "#fafafa",
