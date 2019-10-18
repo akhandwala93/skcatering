@@ -311,7 +311,6 @@ textarea {
   tr,
   img {
     page-break-inside: avoid;
-    page-break-after:avoid /*just a test*/
   }
 
   .print {
