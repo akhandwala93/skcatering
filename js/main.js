@@ -1,2 +1,2 @@
-firebase.initializeApp();
+firebase.initializeApp(firebaseConfig);
 firebase.analytics();
